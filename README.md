@@ -1,6 +1,6 @@
 # opencore-amr-iOS
-* 编译后支持的cpu指令集: i386 x86_64 armv7 armv7s arm64
-* 编译后支持bitcode
+* 支持的cpu指令集: i386 x86_64 armv7 armv7s arm64
+* 支持bitcode
 
 #### opencore-amr-iOS
 * 这个文件夹是最终编译完成的库，可以添加Objective-C接口来使用
