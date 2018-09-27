@@ -7,5 +7,6 @@
 * 添加Objective-C接口可以参考：https://github.com/lifution/AudioConverter 。
 
 #### 编译amr类库
-* opencore-amr下载地址：https://sourceforge.net/projects/opencore-amr/
-* 编译说明参考：https://github.com/chuliangliang/opencore-amr-iOS 。修改了其中的build_ios.sh文件（https://my.oschina.net/u/3358032/blog/860210） 。
+* opencore-amr下载地址：https://sourceforge.net/projects/opencore-amr/ 。
+* 编译说明参考：https://github.com/chuliangliang/opencore-amr-iOS 。
+* 修改了其中的build_ios.sh文件，参考：https://my.oschina.net/u/3358032/blog/860210 。
